@@ -1,8 +1,8 @@
-# 🤖 AI-Powered Data Dashboard with Agentic Workflow
+# AI-Powered Data Dashboard with Agentic Workflow
 
 An interactive data visualization dashboard built with Streamlit, LangGraph, and ChatGroq. This project utilizes a multi-agent architecture to autonomously suggest, generate, and validate Plotly code based on user-uploaded datasets.
 
-## 🏗️ Architecture & Agentic Flow
+## Architecture & Agentic Flow
 
 The system separates the reasoning tasks from the coding tasks, utilizing a Human-In-The-Loop (HITL) step and a self-correcting ReAct (Reason + Act) validation loop to ensure reliable code generation.
 
